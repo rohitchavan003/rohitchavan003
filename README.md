@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm Rohit Chavan</h1>
 <h3 align="center">| A passionate Software Engineer | from India |</h3>
 
-- 🔭 B.Tech in CSE**
+- 🔭 B.Tech in Electronic & Telecommiuncation Enginnering**
 
-- 👨‍💻 Check my portfolio [**here**](https://rahulbhandari27.netlify.app/#/)
+- 
 
 
 
 - 💬 Ask me about **Development**
 
-- 📫 How to reach me **rahulkbhandari272002@gmail.com**
+- 📫 How to reach me **rohitrchavan003@gmail.com**
 
 - 📄 Know about my experiences [**here**](https://drive.google.com/drive/folders/1SNhVxbQPvWM0Y0UEEa_aeYua4o_OlTRl?usp=sharing)
 
@@ -21,11 +21,11 @@
 
 
 
-- 👨‍💻 All of my projects are available at [rahul-0000-code](rahul-0000-code)
+- 👨‍💻 All of my projects are available at [rohit-01-code](rohit-01-code)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rahul-bhandari-7ab026284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul bhandari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohit-chavan-067694237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit chavan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rahul.bhandari.9404362?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahul.bhandari" height="30" width="40" /></a>
 <a href="https://www.instagram.com/r.a.h.u.l_bhandari/?igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.a.h.u.l_bhandari" height="30" width="40" /></a>
 </p>
